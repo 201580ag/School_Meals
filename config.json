@@ -1,0 +1,7 @@
+{
+    "베이스주소": "https://open.neis.go.kr/hub/mealServiceDietInfo?Type=json&pIndex=1&pSize=100",
+    "api_key": "KEY=",
+    "시도교육청코드": "ATPT_OFCDC_SC_CODE=",
+    "행정표준코드": "SD_SCHUL_CODE=",
+    "식사코드": "MMEAL_SC_CODE=2"
+}
